@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>4FBBF9BB-FEBE-4F75-B7C1-A737664BAAF6</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4FBBF9BB-FEBE-4F75-B7C1-A737664BAAF6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GolfBall project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GolfBall</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project GolfBall with scheme GolfBall and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>813363498.06595194</real>
+			<key>timeStoppedRecording</key>
+			<real>813363498.63773704</real>
+			<key>title</key>
+			<string>Building project GolfBall with scheme GolfBall and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4FBBF9BB-FEBE-4F75-B7C1-A737664BAAF6</string>
+		</dict>
+		<key>943719B6-8658-414C-AD10-1A8D8B26DD5E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>943719B6-8658-414C-AD10-1A8D8B26DD5E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GolfBall project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GolfBall</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project GolfBall with scheme GolfBall and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>813364666.71085596</real>
+			<key>timeStoppedRecording</key>
+			<real>813364667.201195</real>
+			<key>title</key>
+			<string>Building project GolfBall with scheme GolfBall and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>943719B6-8658-414C-AD10-1A8D8B26DD5E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
